@@ -1,4 +1,4 @@
-Import the type of input component you are using from the picozero library then set the pins for a single button, use the following code:
+Import Button from the picozero library then set the pins for a single button, use the following code:
 
 --- code ---
 ---

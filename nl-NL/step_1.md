@@ -1,4 +1,4 @@
-Importe Button depuis la bibliothèque picozero puis définis les broches pour un seul bouton, utilise le code suivant :
+Importeer Button uit picozero-bibliotheek en stel vervolgens de pinnen voor één knop in, gebruik de volgende code:
 
 --- code ---
 ---

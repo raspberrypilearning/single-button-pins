@@ -1,4 +1,4 @@
-Importe Button depuis la bibliothèque picozero puis définis les broches pour un seul bouton, utilise le code suivant :
+Import Button from the picozero library then set the pins for a single button, use the following code:
 
 --- code ---
 ---

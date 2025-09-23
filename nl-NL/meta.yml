@@ -1,4 +1,3 @@
----
 title: Stel de pinnen in voor een enkele knop
 hero_image: images/banner.png
 description: Hoe kan je de pinnen voor een knop op een Raspberry Pi Pico instellen
@@ -7,4 +6,5 @@ listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
-  - title: Stel de pinnen in voor een enkele knop
+  - 
+    title: Stel de pinnen in voor een enkele knop
